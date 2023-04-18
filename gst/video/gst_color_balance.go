@@ -14,8 +14,8 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/tinyzimmer/go-glib/glib"
-	"github.com/tinyzimmer/go-gst/gst"
+	"github.com/hiroyky/go-glib/glib"
+	"github.com/hiroyky/go-gst/gst"
 )
 
 // ColorBalanceType is an enumeration indicating whether an element implements color

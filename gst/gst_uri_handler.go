@@ -23,7 +23,7 @@ import (
 	"errors"
 	"unsafe"
 
-	"github.com/tinyzimmer/go-glib/glib"
+	"github.com/hiroyky/go-glib/glib"
 )
 
 var globalURIHdlr URIHandler

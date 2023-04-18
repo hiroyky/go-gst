@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/tinyzimmer/go-glib/glib"
+	"github.com/hiroyky/go-glib/glib"
 )
 
 // Registry is a go representation of a GstRegistry.

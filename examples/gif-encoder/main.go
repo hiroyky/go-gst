@@ -13,11 +13,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tinyzimmer/go-glib/glib"
-	"github.com/tinyzimmer/go-gst/examples"
-	"github.com/tinyzimmer/go-gst/gst"
-	"github.com/tinyzimmer/go-gst/gst/app"
-	"github.com/tinyzimmer/go-gst/gst/video"
+	"github.com/hiroyky/go-glib/glib"
+	"github.com/hiroyky/go-gst/examples"
+	"github.com/hiroyky/go-gst/gst"
+	"github.com/hiroyky/go-gst/gst/app"
+	"github.com/hiroyky/go-gst/gst/video"
 )
 
 var srcFile string
