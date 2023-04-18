@@ -18,7 +18,7 @@ import (
 	"unsafe"
 
 	gopointer "github.com/mattn/go-pointer"
-	"github.com/tinyzimmer/go-glib/glib"
+	"github.com/hiroyky/go-glib/glib"
 )
 
 // TypeCaps is the static Glib Type for a GstCaps.

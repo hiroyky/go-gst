@@ -25,7 +25,7 @@ import (
 	"unsafe"
 
 	gopointer "github.com/mattn/go-pointer"
-	"github.com/tinyzimmer/go-glib/glib"
+	"github.com/hiroyky/go-glib/glib"
 )
 
 // Bus is a Go wrapper around a GstBus. It provides convenience methods for
@@ -43,7 +43,7 @@ type Bus struct {
 //   import (
 //       "fmt"
 //
-//       "github.com/tinyzimmer/go-gst/gst"
+//       "github.com/hiroyky/go-gst/gst"
 //   )
 //
 //   func main() {

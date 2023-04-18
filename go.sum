@@ -1,4 +1,3 @@
-github.com/mattn/go-pointer v0.0.1 h1:n+XhsuGeVO6MEAp7xyEukFINEa+Quek5psIR/ylA6o0=
+github.com/hiroyky/go-glib v0.0.0-20230418112332-9aa5c05f0771 h1:9whMgG2H+SlISy3cnO5uoBaisfpWNHVj5vlQRacKQA8=
+github.com/hiroyky/go-glib v0.0.0-20230418112332-9aa5c05f0771/go.mod h1:Wvdm4RfsH0og+07m8yrIDzRd1/l7KkRhgy3A3b/PWXk=
 github.com/mattn/go-pointer v0.0.1/go.mod h1:2zXcozF6qYGgmsG+SeTZz3oAbFLdD3OWqnUbNvJZAlc=
-github.com/tinyzimmer/go-glib v0.0.24 h1:ktZZC22/9t88kGRgNEFV/SESgIWhGHE+q7Z7Qj++luw=
-github.com/tinyzimmer/go-glib v0.0.24/go.mod h1:ltV0gO6xNFzZhsIRbFXv8RTq9NGoNT2dmAER4YmZfaM=

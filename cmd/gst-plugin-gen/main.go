@@ -136,9 +136,9 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/tinyzimmer/go-gst/gst"
+	"github.com/hiroyky/go-gst/gst"
 	{{- if (.Config.Element.Subclass | extendsFromBase) }}
-	"github.com/tinyzimmer/go-gst/gst/base"
+	"github.com/hiroyky/go-gst/gst/base"
 	{{- end }}
 )
 

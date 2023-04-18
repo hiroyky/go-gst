@@ -14,7 +14,7 @@ import (
 	"unsafe"
 
 	gopointer "github.com/mattn/go-pointer"
-	"github.com/tinyzimmer/go-glib/glib"
+	"github.com/hiroyky/go-glib/glib"
 )
 
 //export goElementCallAsync

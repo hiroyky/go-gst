@@ -24,9 +24,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/tinyzimmer/go-glib/glib"
-	"github.com/tinyzimmer/go-gst/examples"
-	"github.com/tinyzimmer/go-gst/gst"
+	"github.com/hiroyky/go-glib/glib"
+	"github.com/hiroyky/go-gst/examples"
+	"github.com/hiroyky/go-gst/gst"
 )
 
 func runPipeline(loop *glib.MainLoop) error {

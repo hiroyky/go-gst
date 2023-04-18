@@ -17,8 +17,8 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/tinyzimmer/go-gst/gst"
-	"github.com/tinyzimmer/go-gst/gst/base"
+	"github.com/hiroyky/go-gst/gst"
+	"github.com/hiroyky/go-gst/gst/base"
 )
 
 // The metadata for this plugin

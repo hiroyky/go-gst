@@ -6,7 +6,7 @@
 // +plugin:License=gst.LicenseLGPL
 // +plugin:Source=go-gst
 // +plugin:Package=examples
-// +plugin:Origin=https://github.com/tinyzimmer/go-gst
+// +plugin:Origin=https://github.com/hiroyky/go-gst
 // +plugin:ReleaseDate=2021-01-18
 //
 // +element:Name=myelement
@@ -16,7 +16,7 @@
 //
 package main
 
-import "github.com/tinyzimmer/go-glib/glib"
+import "github.com/hiroyky/go-glib/glib"
 
 func main() {}
 
